@@ -1,0 +1,1319 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>
+      Group Leisure Weekly
+    </title>
+    <style type="text/css">
+
+    /* colours - blue:#0068B3; dark grey:#898989; light grey:#F2F2F2; story grey:#555555; */
+
+    #outlook a { padding:0; } /* Force Outlook to provide a "view in browser" menu link. */
+
+    .ExternalClass {width:100%;} /* Force Hotmail to display emails at full width */
+
+    .ExternalClass p { margin-bottom:0; margin:0 } /* Hotmail doesn't recognise margin or margin-top declarations more here: http://www.emailonacid.com/blog/details/C13/7_tips_and_tricks_regarding_margins_and_padding_in_html_emails */
+
+    .ExternalClass * {line-height: 100%;} /* Overrides the Outlook.com generic line-height of 142% */
+
+    body, h1, h2, h3, h4, h5, p {margin: 0; padding: 0;}
+
+    #header h4 {font-size: 22px; color: #898989; font-family: Georgia, Times New Roman, Times, serif; font-weight: normal; text-align:center;}
+
+    body { background-color:#F2F2F2; }
+
+    #background-table { background-color:#F2F2F2; width:100%; }
+
+    #top-links { text-align:center; }
+
+    #top-links p {font-size: 12px; color: #555555; font-family: Georgia, Times New Roman, Times, serif;}
+
+    img { outline:none; text-decoration:none; display:block; } 
+
+    a img { border:none; }
+
+    a { color:#0068B3!important; } /* blue */
+
+    a:hover { color:#898989; } /* dark-grey */
+        
+    h1 {font-size: 66px; color: #0068B3; font-family: Georgia, Times New Roman, Times, serif; font-weight: normal;}
+
+    h2 {font-size: 32px; color: #898989; font-family: Georgia, Times New Roman, Times, serif; font-weight: normal;}
+
+    h4 {font-size: 22px; color: #0068B3; font-family: Georgia, Times New Roman, Times, serif; font-weight: normal;}
+
+    h4 a, h5 a { text-decoration:none; }
+
+    h5 {font-size: 18px; color: #0068B3; font-family: Georgia, Times New Roman, Times, serif; font-weight: normal;}
+
+    #articles h5 {font-size: 18px; color: #0068B3; font-family: Georgia, Times New Roman, Times, serif; font-weight: normal;}
+
+    p {font-size: 14px; color: #555555; font-family: Georgia, Times New Roman, Times, serif; line-height: 1.25;}
+
+    p .subhead {font-size: 14px; color: #555555; font-family: Georgia, Times New Roman, Times, serif; text-align:center;}
+
+    .border-bottom { border-bottom:dashed 1px #898989; }
+
+    </style>
+  </head>
+  <body style="margin: 0;padding: 0;background-color: #F2F2F2;">
+    <table border="0" cellpadding="0" cellspacing="0" id="background-table" style="background-color: #f2f2f2; width: 100%;">
+      <tbody>
+        <tr>
+          <td valign="top">
+            <table align="center" border="0" cellpadding="0" cellspacing="0" id="top-links" style="text-align: center;">
+              <tbody>
+                <tr>
+                  <td height="50" width="200">
+                    <p style="margin: 0; padding: 0; font-size: 12px; color: #555555; font-family: Georgia, Times New Roman, Times, serif; line-height: 1.25;">
+                      <a href="[*link.webversion_url*]" style="color: #0068b3;" target="_blank">View in browser</a>
+                    </p>
+                  </td>
+                  <td height="50" width="200">
+                    <p style="margin: 0; padding: 0; font-size: 12px; color: #555555; font-family: Georgia, Times New Roman, Times, serif; line-height: 1.25;">
+                      <a href="[*link.simple_version_url*]" style="color: #0068b3;" target="_blank">View text version</a>
+                    </p>
+                  </td>
+                  <td height="50" width="200">
+                    <p style="margin: 0; padding: 0; font-size: 12px; color: #555555; font-family: Georgia, Times New Roman, Times, serif; line-height: 1.25;">
+                      <a href="[*link.safe_sender_url*]" style="color: #0068b3;" target="_blank">Add us to your safe senders</a>
+                    </p>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!--/top-links-->
+
+            <table align="center" border="0" cellpadding="1" cellspacing="0" style="background-color: #898989; width: 602px">
+              <!--for dark grey outline-->
+
+              <tbody>
+                <tr>
+                  <td>
+                    <table border="0" cellpadding="20" cellspacing="0" style="width: 600px;">
+                      <!--masthead container-->
+
+                      <tbody>
+                        <tr>
+                          <td style="background-color: #FFFFFF" width="560">
+                            <table border="0" cellpadding="0" cellspacing="0" id="header">
+                              <tbody>
+                                <tr>
+                                  <td height="108" valign="top" width="560">
+                                    <table border="0" cellpadding="0" cellspacing="0">
+                                      <!--logo and masthead-->
+
+                                      <tbody>
+                                        <tr>
+                                          <td height="108" width="290">
+                                            <a href="http://www.groupleisure.com" style="color: #0068b3;" target="_blank"><img alt="Visit groupleisure.com" height="108" src="http://groupleisure.msgfocus.com/files/amf_yandell_publishing/project_90/GL-e-newsletter-template/images/GL_dot_com_logo.jpg" style="outline: none; text-decoration: none; display: block; border: none;" width="290"></a>
+                                          </td>
+                                          <td align="center" height="108" width="270">
+                                            <table border="0" cellpadding="0" cellspacing="0">
+                                              <!--header text-->
+
+                                              <tbody>
+                                                <tr>
+                                                  <td align="center" height="36" width="270">
+                                                    <h2 style="margin: 0; padding: 0; font-size: 30px; color: #898989 !important; font-family: Georgia, Times New Roman, Times, serif; font-weight: normal;">
+                                                      [* USE date *][* date.format(date.now, '%e %B %Y', 'en_GB') *]
+                                                    </h2>
+                                                  </td>
+                                                </tr>
+
+                                                <tr>
+                                                  <td align="center" height="72" width="270">
+                                                    <h1 style="margin: 0; padding: 0; font-size: 66px; color: #0068b3 !important; font-family: Georgia, Times New Roman, Times, serif; font-weight: normal;">
+                                                      weekly
+                                                    </h1>
+                                                  </td>
+                                                </tr>
+                                              </tbody>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </td>
+                                </tr>
+
+                                <tr>
+                                  <td height="11" width="560">
+                                  </td>
+                                </tr>
+
+                                <tr>
+                                  <td height="70" style="background-color: #F2F2F2" width="560">
+                                    <h4 style="margin: 0; padding: 0; font-size: 22px; color: #898989 !important; font-family: Georgia, Times New Roman, Times, serif; font-weight: normal; text-align: center;">
+                                      [* IF data('first_name') *] Dear [* data('first_name') | html *], [* ELSE *] Dear Reader, [* END *] here's this week's e-newsletter from<br>Group Leisure magazine.
+                                    </h4>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!--/header-->
+
+            <table align="center" border="0" cellpadding="0" cellspacing="0">
+              <tbody>
+                <tr>
+                  <td height="16" width="600">
+                    <img alt="" height="16" src="http://groupleisure.msgfocus.com/files/amf_yandell_publishing/project_90/GL-e-newsletter-template/images/drop_shadow.jpg" style="outline: none; text-decoration: none; display: block;" width="600">
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!--/drop shadow-->
+
+            <table align="center" border="0" cellpadding="1" cellspacing="0" style="background-color: #898989; width: 602px">
+              <!--for dark grey outline-->
+
+              <tbody>
+                <tr>
+                  <td>
+                    <table border="0" cellpadding="20" cellspacing="0" style="width: 600px;">
+                      <!-- stories container-->
+
+                      <tbody>
+                        <tr>
+                          <td style="background-color: #FFFFFF" width="560">
+                            <table border="0" cellpadding="0" cellspacing="0">
+                              <tbody>
+                                <tr>
+                                  <td align="center" height="90" style="background-color: #F2F2F2" valign="top">
+                                    <a href="http://scotthotels.co.uk/company/group-packages.aspx" target="_blank"><img align="top" alt="Black Country Living Museum" border="0" src="http://groupleisure.msgfocus.com/files/amf_yandell_publishing/project_90/04-09-14-images-folder/Angus_Hotel.gif" title="Click here to find out more..."></a>
+                                  </td><!--1st web banner table cell-->
+                                </tr>
+
+                                <tr>
+                                  <td align="center" height="20" valign="top">
+                                    <img alt="" height="20" src="http://www.yandellmedia.com/images/spacer.gif" style="outline: none; text-decoration: none; display: block;" width="1">
+                                  </td>
+                                </tr>
+
+                                <tr>
+                                  <td align="center" class="border-bottom" height="60" style="border-bottom: dashed 1px #898989;" valign="top" width="560">
+                                    <h4 style="margin: 0; padding: 0; font-size: 22px; color: #0068b3 !important; font-family: Georgia, Times New Roman, Times, serif; font-weight: normal;">
+                                      A selection of the latest group travel news and ideas<br>
+                                      from <a href="http://www.groupleisure.com" style="color: #0068b3; text-decoration: none;" target="_blank">groupleisure.com</a>
+                                    </h4>
+                                  </td>
+                                </tr>
+
+                                <tr>
+                                  <td align="center" height="60" valign="middle" width="560">
+                                    <p class="subhead" style="margin: 0; padding: 0; font-size: 14px; color: #555555; font-family: Georgia, Times New Roman, Times, serif; line-height: 1.25;">
+                                      For all of our current news stories, and to search our news archives go to <a href="http://www.groupleisure.com/news" style="color: #0068b3;" target="_blank">www.groupleisure.com/news</a>
+                                    </p>
+                                  </td>
+                                </tr>
+
+                                <tr>
+                                  <td style="background-color: #F2F2F2" width="560">
+                                    <table border="0" cellpadding="0" cellspacing="0">
+                                      <!--story table-->
+
+                                      <tbody>
+                                        <tr>
+                                          <td height="20" width="20">
+                                            &nbsp;
+                                          </td>
+                                          <td height="20" width="240">
+                                            &nbsp;
+                                          </td>
+                                          <td height="20" valign="top" width="40">
+                                            <img alt="" height="1" src="http://www.yandellmedia.com/images/spacer.gif" style="outline: none; text-decoration: none; display: block;" width="40">
+                                          </td>
+                                          <td height="20" width="240">
+                                            &nbsp;
+                                          </td>
+                                          <td height="20" width="20">
+                                            &nbsp;
+                                          </td>
+                                        </tr>
+
+                                        <tr>
+                                          <td height="180" width="20">
+                                            &nbsp;
+                                          </td>
+                                          <td height="180" style="background-color: #f2f2f2" valign="top" width="240">
+                                            <a href="#" target="_blank"><img align="top" alt="Click here to read more..." border="0" src="http://placehold.it/240x180"></a>
+                                          </td>
+                                          <td height="180" width="40">
+                                            &nbsp;
+                                          </td>
+                                          <td height="180" valign="top" width="240">
+                                            <table border="0" cellpadding="0" cellspacing="0">
+                                              <!--story text-->
+
+                                              <tbody>
+                                                <tr>
+                                                  <td valign="top" width="240">
+                                                    <h5 style="margin: 0; padding: 0; font-size: 18px; color: #0068b3 !important; font-family: Georgia, Times New Roman, Times, serif; font-weight: normal;">
+                                                      <a href="#" style="color: #0068b3;text-decoration: none;" target="_blank">Headline</a>
+                                                    </h5>
+                                                  </td>
+                                                </tr>
+
+                                                <tr>
+                                                  <td height="13" width="240">
+                                                  </td>
+                                                </tr>
+
+                                                <tr>
+                                                  <td valign="top" width="240">
+                                                    <p style="margin: 0; padding: 0; font-size: 14px; color: #555555; font-family: Georgia, Times New Roman, Times, serif; line-height: 1.25;">
+                                                      Text here.&nbsp;<a href="#" style="color: #0068b3;line-height: 1.25;" target="_blank">Read more &gt;&gt;</a>
+                                                    </p>
+                                                  </td>
+                                                </tr>
+                                              </tbody>
+                                            </table>
+                                            <!--/story text-->
+                                          </td>
+                                          <td height="180" width="20">
+                                            &nbsp;
+                                          </td>
+                                        </tr>
+
+                                        <tr>
+                                          <td height="19" width="20">
+                                            &nbsp;
+                                          </td>
+                                          <td height="19" width="240">
+                                            &nbsp;
+                                          </td>
+                                          <td height="19" width="40">
+                                            &nbsp;
+                                          </td>
+                                          <td height="19" width="240">
+                                            &nbsp;
+                                          </td>
+                                          <td height="19" width="20">
+                                            &nbsp;
+                                          </td>
+                                        </tr>
+
+                                        <tr>
+                                          <td height="1" style="background-color: #FFFFFF" width="20">
+                                          </td>
+                                          <td height="1" style="background-color: #FFFFFF" width="240">
+                                          </td>
+                                          <td height="1" style="background-color: #FFFFFF" width="40">
+                                          </td>
+                                          <td height="1" style="background-color: #FFFFFF" width="240">
+                                          </td>
+                                          <td height="1" style="background-color: #FFFFFF" width="20">
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                    <!--/story table-->
+
+                                    <table border="0" cellpadding="0" cellspacing="0">
+                                      <!--story table-->
+
+                                      <tbody>
+                                        <tr>
+                                          <td height="20" width="20">
+                                            &nbsp;
+                                          </td>
+                                          <td height="20" width="240">
+                                            &nbsp;
+                                          </td>
+                                          <td height="20" valign="top" width="40">
+                                            <img alt="" height="1" src="http://www.yandellmedia.com/images/spacer.gif" style="outline: none; text-decoration: none; display: block;" width="40">
+                                          </td>
+                                          <td height="20" width="240">
+                                            &nbsp;
+                                          </td>
+                                          <td height="20" width="20">
+                                            &nbsp;
+                                          </td>
+                                        </tr>
+
+                                        <tr>
+                                          <td height="180" width="20">
+                                            &nbsp;
+                                          </td>
+                                          <td height="180" valign="top" width="240">
+                                            <table border="0" cellpadding="0" cellspacing="0">
+                                              <!--story text-->
+
+                                              <tbody>
+                                                <tr>
+                                                  <td valign="top" width="240">
+                                                    <h5 style="margin: 0; padding: 0; font-size: 18px; color: #0068b3 !important; font-family: Georgia, Times New Roman, Times, serif; font-weight: normal;">
+                                                      <a href="#" style="color: #0068b3;text-decoration: none;" target="_blank">Headline</a>
+                                                    </h5>
+                                                  </td>
+                                                </tr>
+
+                                                <tr>
+                                                  <td height="13" width="240">
+                                                  </td>
+                                                </tr>
+
+                                                <tr>
+                                                  <td valign="top" width="240">
+                                                    <p style="margin: 0; padding: 0; font-size: 14px; color: #555555; font-family: Georgia, Times New Roman, Times, serif; line-height: 1.25;">
+                                                      Text here.&nbsp;<a href="#" style="color: #0068b3;line-height: 1.25;" target="_blank">Read more &gt;&gt;</a>
+                                                    </p>
+                                                  </td>
+                                                </tr>
+                                              </tbody>
+                                            </table>
+                                            <!--/story text-->
+                                          </td>
+                                          <td height="180" width="40">
+                                            &nbsp;
+                                          </td>
+                                          <td height="180" style="background-color: #f2f2f2" valign="top" width="240">
+                                            <a href="#" target="_blank"><img align="top" alt="Click here to read more..." border="0" src="http://placehold.it/240x180"></a>
+                                          </td>
+                                          <td height="180" width="20">
+                                            &nbsp;
+                                          </td>
+                                        </tr>
+
+                                        <tr>
+                                          <td height="19" width="20">
+                                            &nbsp;
+                                          </td>
+                                          <td height="19" width="240">
+                                            &nbsp;
+                                          </td>
+                                          <td height="19" width="40">
+                                            &nbsp;
+                                          </td>
+                                          <td height="19" width="240">
+                                            &nbsp;
+                                          </td>
+                                          <td height="19" width="20">
+                                            &nbsp;
+                                          </td>
+                                        </tr>
+
+                                        <tr>
+                                          <td height="1" style="background-color: #FFFFFF" width="20">
+                                          </td>
+                                          <td height="1" style="background-color: #FFFFFF" width="240">
+                                          </td>
+                                          <td height="1" style="background-color: #FFFFFF" width="40">
+                                          </td>
+                                          <td height="1" style="background-color: #FFFFFF" width="240">
+                                          </td>
+                                          <td height="1" style="background-color: #FFFFFF" width="20">
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                    <!--/story table-->
+
+                                    <table border="0" cellpadding="0" cellspacing="0">
+                                      <!--story table-->
+
+                                      <tbody>
+                                        <tr>
+                                          <td height="20" width="20">
+                                            &nbsp;
+                                          </td>
+                                          <td height="20" width="240">
+                                            &nbsp;
+                                          </td>
+                                          <td height="20" valign="top" width="40">
+                                            <img alt="" height="1" src="http://www.yandellmedia.com/images/spacer.gif" style="outline: none; text-decoration: none; display: block;" width="40">
+                                          </td>
+                                          <td height="20" width="240">
+                                            &nbsp;
+                                          </td>
+                                          <td height="20" width="20">
+                                            &nbsp;
+                                          </td>
+                                        </tr>
+
+                                        <tr>
+                                          <td height="180" width="20">
+                                            &nbsp;
+                                          </td>
+                                          <td height="180" style="background-color: #f2f2f2" valign="top" width="240">
+                                            <a href="#" target="_blank"><img align="top" alt="Click here to read more..." border="0" src="http://placehold.it/240x180"></a>
+                                          </td>
+                                          <td height="180" width="40">
+                                            &nbsp;
+                                          </td>
+                                          <td height="180" valign="top" width="240">
+                                            <table border="0" cellpadding="0" cellspacing="0">
+                                              <!--story text-->
+
+                                              <tbody>
+                                                <tr>
+                                                  <td valign="top" width="240">
+                                                    <h5 style="margin: 0; padding: 0; font-size: 18px; color: #0068b3 !important; font-family: Georgia, Times New Roman, Times, serif; font-weight: normal;">
+                                                      <a href="#" style="color: #0068b3;text-decoration: none;" target="_blank">Headline</a>
+                                                    </h5>
+                                                  </td>
+                                                </tr>
+
+                                                <tr>
+                                                  <td height="13" width="240">
+                                                  </td>
+                                                </tr>
+
+                                                <tr>
+                                                  <td valign="top" width="240">
+                                                    <p style="margin: 0; padding: 0; font-size: 14px; color: #555555; font-family: Georgia, Times New Roman, Times, serif; line-height: 1.25;">
+                                                      Text here.&nbsp;<a href="#" style="color: #0068b3;line-height: 1.25;" target="_blank">Read more &gt;&gt;</a>
+                                                    </p>
+                                                  </td>
+                                                </tr>
+                                              </tbody>
+                                            </table>
+                                            <!--/story text-->
+                                          </td>
+                                          <td height="180" width="20">
+                                            &nbsp;
+                                          </td>
+                                        </tr>
+
+                                        <tr>
+                                          <td height="19" width="20">
+                                            &nbsp;
+                                          </td>
+                                          <td height="19" width="240">
+                                            &nbsp;
+                                          </td>
+                                          <td height="19" width="40">
+                                            &nbsp;
+                                          </td>
+                                          <td height="19" width="240">
+                                            &nbsp;
+                                          </td>
+                                          <td height="19" width="20">
+                                            &nbsp;
+                                          </td>
+                                        </tr>
+
+                                        <tr>
+                                          <td height="1" style="background-color: #FFFFFF" width="20">
+                                          </td>
+                                          <td height="1" style="background-color: #FFFFFF" width="240">
+                                          </td>
+                                          <td height="1" style="background-color: #FFFFFF" width="40">
+                                          </td>
+                                          <td height="1" style="background-color: #FFFFFF" width="240">
+                                          </td>
+                                          <td height="1" style="background-color: #FFFFFF" width="20">
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                    <!--/story table-->
+
+                                    <table border="0" cellpadding="0" cellspacing="0">
+                                      <!--story table-->
+
+                                      <tbody>
+                                        <tr>
+                                          <td height="20" width="20">
+                                            &nbsp;
+                                          </td>
+                                          <td height="20" width="240">
+                                            &nbsp;
+                                          </td>
+                                          <td height="20" valign="top" width="40">
+                                            <img alt="" height="1" src="http://www.yandellmedia.com/images/spacer.gif" style="outline: none; text-decoration: none; display: block;" width="40">
+                                          </td>
+                                          <td height="20" width="240">
+                                            &nbsp;
+                                          </td>
+                                          <td height="20" width="20">
+                                            &nbsp;
+                                          </td>
+                                        </tr>
+
+                                        <tr>
+                                          <td height="180" width="20">
+                                            &nbsp;
+                                          </td>
+                                          <td height="180" valign="top" width="240">
+                                            <table border="0" cellpadding="0" cellspacing="0">
+                                              <!--story text-->
+
+                                              <tbody>
+                                                <tr>
+                                                  <td valign="top" width="240">
+                                                    <h5 style="margin: 0; padding: 0; font-size: 18px; color: #0068b3 !important; font-family: Georgia, Times New Roman, Times, serif; font-weight: normal;">
+                                                      <a href="#" style="color: #0068b3;text-decoration: none;" target="_blank">Headline</a>
+                                                    </h5>
+                                                  </td>
+                                                </tr>
+
+                                                <tr>
+                                                  <td height="13" width="240">
+                                                  </td>
+                                                </tr>
+
+                                                <tr>
+                                                  <td valign="top" width="240">
+                                                    <p style="margin: 0; padding: 0; font-size: 14px; color: #555555; font-family: Georgia, Times New Roman, Times, serif; line-height: 1.25;">
+                                                      Text here.&nbsp;<a href="#" style="color: #0068b3;line-height: 1.25;" target="_blank">Read more &gt;&gt;</a>
+                                                    </p>
+                                                  </td>
+                                                </tr>
+                                              </tbody>
+                                            </table>
+                                            <!--/story text-->
+                                          </td>
+                                          <td height="180" width="40">
+                                            &nbsp;
+                                          </td>
+                                          <td height="180" style="background-color: #f2f2f2" valign="top" width="240">
+                                            <a href="#" target="_blank"><img align="top" alt="Click here to read more..." border="0" src="http://placehold.it/240x180"></a>
+                                          </td>
+                                          <td height="180" width="20">
+                                            &nbsp;
+                                          </td>
+                                        </tr>
+
+                                        <tr>
+                                          <td height="19" width="20">
+                                            &nbsp;
+                                          </td>
+                                          <td height="19" width="240">
+                                            &nbsp;
+                                          </td>
+                                          <td height="19" width="40">
+                                            &nbsp;
+                                          </td>
+                                          <td height="19" width="240">
+                                            &nbsp;
+                                          </td>
+                                          <td height="19" width="20">
+                                            &nbsp;
+                                          </td>
+                                        </tr>
+
+                                        <tr>
+                                          <td height="1" style="background-color: #FFFFFF" width="20">
+                                          </td>
+                                          <td height="1" style="background-color: #FFFFFF" width="240">
+                                          </td>
+                                          <td height="1" style="background-color: #FFFFFF" width="40">
+                                          </td>
+                                          <td height="1" style="background-color: #FFFFFF" width="240">
+                                          </td>
+                                          <td height="1" style="background-color: #FFFFFF" width="20">
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                    <!--/story table-->
+
+                                    <table border="0" cellpadding="0" cellspacing="0">
+                                      <!--story table-->
+
+                                      <tbody>
+                                        <tr>
+                                          <td height="20" width="20">
+                                            &nbsp;
+                                          </td>
+                                          <td height="20" width="240">
+                                            &nbsp;
+                                          </td>
+                                          <td height="20" valign="top" width="40">
+                                            <img alt="" height="1" src="http://www.yandellmedia.com/images/spacer.gif" style="outline: none; text-decoration: none; display: block;" width="40">
+                                          </td>
+                                          <td height="20" width="240">
+                                            &nbsp;
+                                          </td>
+                                          <td height="20" width="20">
+                                            &nbsp;
+                                          </td>
+                                        </tr>
+
+                                        <tr>
+                                          <td height="180" width="20">
+                                            &nbsp;
+                                          </td>
+                                          <td height="180" style="background-color: #f2f2f2" valign="top" width="240">
+                                            <a href="#" target="_blank"><img align="top" alt="Click here to read more..." border="0" src="http://placehold.it/240x180"></a>
+                                          </td>
+                                          <td height="180" width="40">
+                                            &nbsp;
+                                          </td>
+                                          <td height="180" valign="top" width="240">
+                                            <table border="0" cellpadding="0" cellspacing="0">
+                                              <!--story text-->
+
+                                              <tbody>
+                                                <tr>
+                                                  <td valign="top" width="240">
+                                                    <h5 style="margin: 0; padding: 0; font-size: 18px; color: #0068b3 !important; font-family: Georgia, Times New Roman, Times, serif; font-weight: normal;">
+                                                      <a href="#" style="color: #0068b3;text-decoration: none;" target="_blank">Headline</a>
+                                                    </h5>
+                                                  </td>
+                                                </tr>
+
+                                                <tr>
+                                                  <td height="13" width="240">
+                                                  </td>
+                                                </tr>
+
+                                                <tr>
+                                                  <td valign="top" width="240">
+                                                    <p style="margin: 0; padding: 0; font-size: 14px; color: #555555; font-family: Georgia, Times New Roman, Times, serif; line-height: 1.25;">
+                                                      Text here.&nbsp;<a href="#" style="color: #0068b3;line-height: 1.25;" target="_blank">Read more &gt;&gt;</a>
+                                                    </p>
+                                                  </td>
+                                                </tr>
+                                              </tbody>
+                                            </table>
+                                            <!--/story text-->
+                                          </td>
+                                          <td height="180" width="20">
+                                            &nbsp;
+                                          </td>
+                                        </tr>
+
+                                        <tr>
+                                          <td height="19" width="20">
+                                            &nbsp;
+                                          </td>
+                                          <td height="19" width="240">
+                                            &nbsp;
+                                          </td>
+                                          <td height="19" width="40">
+                                            &nbsp;
+                                          </td>
+                                          <td height="19" width="240">
+                                            &nbsp;
+                                          </td>
+                                          <td height="19" width="20">
+                                            &nbsp;
+                                          </td>
+                                        </tr>
+
+                                        <tr>
+                                          <td height="1" style="background-color: #FFFFFF" width="20">
+                                          </td>
+                                          <td height="1" style="background-color: #FFFFFF" width="240">
+                                          </td>
+                                          <td height="1" style="background-color: #FFFFFF" width="40">
+                                          </td>
+                                          <td height="1" style="background-color: #FFFFFF" width="240">
+                                          </td>
+                                          <td height="1" style="background-color: #FFFFFF" width="20">
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                    <!--/story table-->
+
+                                    <table border="0" cellpadding="0" cellspacing="0">
+                                      <!--story table-->
+
+                                      <tbody>
+                                        <tr>
+                                          <td height="20" width="20">
+                                            &nbsp;
+                                          </td>
+                                          <td height="20" width="240">
+                                            &nbsp;
+                                          </td>
+                                          <td height="20" valign="top" width="40">
+                                            <img alt="" height="1" src="http://www.yandellmedia.com/images/spacer.gif" style="outline: none; text-decoration: none; display: block;" width="40">
+                                          </td>
+                                          <td height="20" width="240">
+                                            &nbsp;
+                                          </td>
+                                          <td height="20" width="20">
+                                            &nbsp;
+                                          </td>
+                                        </tr>
+
+                                        <tr>
+                                          <td height="180" width="20">
+                                            &nbsp;
+                                          </td>
+                                          <td height="180" valign="top" width="240">
+                                            <table border="0" cellpadding="0" cellspacing="0">
+                                              <!--story text-->
+
+                                              <tbody>
+                                                <tr>
+                                                  <td valign="top" width="240">
+                                                    <h5 style="margin: 0; padding: 0; font-size: 18px; color: #0068b3 !important; font-family: Georgia, Times New Roman, Times, serif; font-weight: normal;">
+                                                      <a href="#" style="color: #0068b3;text-decoration: none;" target="_blank">Headline</a>
+                                                    </h5>
+                                                  </td>
+                                                </tr>
+
+                                                <tr>
+                                                  <td height="13" width="240">
+                                                  </td>
+                                                </tr>
+
+                                                <tr>
+                                                  <td valign="top" width="240">
+                                                    <p style="margin: 0; padding: 0; font-size: 14px; color: #555555; font-family: Georgia, Times New Roman, Times, serif; line-height: 1.25;">
+                                                      Text here.&nbsp;<a href="#" style="color: #0068b3;line-height: 1.25;" target="_blank">Read more &gt;&gt;</a>
+                                                    </p>
+                                                  </td>
+                                                </tr>
+                                              </tbody>
+                                            </table>
+                                            <!--/story text-->
+                                          </td>
+                                          <td height="180" width="40">
+                                            &nbsp;
+                                          </td>
+                                          <td height="180" style="background-color: #f2f2f2" valign="top" width="240">
+                                            <a href="#" target="_blank"><img align="top" alt="Click here to read more..." border="0" src="http://placehold.it/240x180"></a>
+                                          </td>
+                                          <td height="180" width="20">
+                                            &nbsp;
+                                          </td>
+                                        </tr>
+
+                                        <tr>
+                                          <td height="19" width="20">
+                                            &nbsp;
+                                          </td>
+                                          <td height="19" width="240">
+                                            &nbsp;
+                                          </td>
+                                          <td height="19" width="40">
+                                            &nbsp;
+                                          </td>
+                                          <td height="19" width="240">
+                                            &nbsp;
+                                          </td>
+                                          <td height="19" width="20">
+                                            &nbsp;
+                                          </td>
+                                        </tr>
+
+                                        <tr>
+                                          <td height="1" style="background-color: #FFFFFF" width="20">
+                                          </td>
+                                          <td height="1" style="background-color: #FFFFFF" width="240">
+                                          </td>
+                                          <td height="1" style="background-color: #FFFFFF" width="40">
+                                          </td>
+                                          <td height="1" style="background-color: #FFFFFF" width="240">
+                                          </td>
+                                          <td height="1" style="background-color: #FFFFFF" width="20">
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                    <!--/story table-->
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                            <!--2nd web banner table-->
+
+                            <table border="0" cellpadding="0" cellspacing="0" width="560">
+                              <tbody>
+                                <tr>
+                                  <td align="center" height="20" valign="top">
+                                    <img alt="" height="20" src="http://www.yandellmedia.com/images/spacer.gif" style="outline: none; text-decoration: none; display: block;" width="1">
+                                  </td>
+                                </tr>
+
+                                <tr>
+                                  <td align="center" height="90" style="background-color: #F2F2F2" valign="top">
+                                    <a href="http://www.kew.org/visit-kew-gardens/whats-on/christmas-at-kew-2014/ticket-information" target="_blank"><img align="top" alt="Switzerland Travel Centre" border="0" src="http://groupleisure.msgfocus.com/files/amf_yandell_publishing/project_90/04-09-14-images-folder/Christmas_at_Kew_-_560x90_web_image_-_Group_Leisure_Sept_newsletters.jpg" title="Click here to find out more..."></a>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                            <!--/2nd web banner table-->
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+
+            <table align="center" border="0" cellpadding="0" cellspacing="0">
+              <!--drop shadow-->
+
+              <tbody>
+                <tr>
+                  <td height="16" width="600">
+                    <img alt="" height="16" src="http://groupleisure.msgfocus.com/files/amf_yandell_publishing/project_90/GL-e-newsletter-template/images/drop_shadow.jpg" style="outline: none; text-decoration: none; display: block;" width="600">
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!--/drop shadow-->
+
+            <table align="center" border="0" cellpadding="1" cellspacing="0" style="background-color: #898989; width: 602px">
+              <!--for dark grey outline-->
+
+              <tbody>
+                <tr>
+                  <td>
+                    <table border="0" cellpadding="20" cellspacing="0" style="width: 600px;">
+                      <!--articles container-->
+
+                      <tbody>
+                        <tr>
+                          <td style="background-color: #FFFFFF" width="560">
+                            <table border="0" cellpadding="0" cellspacing="0">
+                              <tbody>
+                                <tr>
+                                  <td align="center" class="border-bottom" height="60" style="border-bottom: dashed 1px #898989;" valign="top" width="560">
+                                    <h4 style="margin: 0; padding: 0; font-size: 22px; color: #0068b3 !important; font-family: Georgia, Times New Roman, Times, serif; font-weight: normal;">
+                                      Take a look at the latest articles and features online<br>
+                                      now at <a href="http://www.groupleisure.com/Articles" style="color: #0068b3; text-decoration: none;" target="_blank">groupleisure.com</a>
+                                    </h4>
+                                  </td>
+                                </tr>
+
+                                <tr>
+                                  <td height="20" width="560">
+                                    &nbsp;
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                            <!--/headline section-->
+
+                            <table border="0" cellpadding="0" cellspacing="0" style="background-color: #F2F2F2">
+                              <!--articles stories set 1-->
+
+                              <tbody>
+                                <tr>
+                                  <td height="20" width="20">
+                                    &nbsp;
+                                  </td>
+                                  <td height="20" width="240">
+                                    &nbsp;
+                                  </td>
+                                  <td height="20" valign="top" width="40">
+                                    <img alt="" height="1" src="http://www.yandellmedia.com/images/spacer.gif" style="outline: none; text-decoration: none; display: block;" width="40">
+                                  </td>
+                                  <td height="20" width="240">
+                                    &nbsp;
+                                  </td>
+                                  <td height="20" width="20">
+                                    &nbsp;
+                                  </td>
+                                </tr>
+
+                                <tr>
+                                  <td height="180" width="20">
+                                    &nbsp;
+                                  </td>
+                                  <td height="180" style="background-color: #f2f2f2" valign="top" width="240">
+                                    <a href="#" target="_blank"><img align="top" alt="Click here to read more..." border="0" src="http://placehold.it/240x180"></a>
+                                  </td>
+                                  <td height="180" width="40">
+                                    &nbsp;
+                                  </td>
+                                  <td height="180" style="background-color: #f2f2f2" valign="top" width="240">
+                                    <a href="#" target="_blank"><img align="top" alt="Click here to read more..." border="0" src="http://placehold.it/240x180"></a>
+                                  </td>
+                                  <td height="180" width="20">
+                                    &nbsp;
+                                  </td>
+                                </tr>
+
+                                <tr>
+                                  <td height="10" width="20">
+                                  </td>
+                                  <td height="10" width="240">
+                                  </td>
+                                  <td height="10" width="40">
+                                  </td>
+                                  <td height="10" width="240">
+                                  </td>
+                                  <td height="10" width="20">
+                                  </td>
+                                </tr>
+
+                                <tr>
+                                  <td width="20">
+                                    &nbsp;
+                                  </td>
+                                  <td valign="top" width="240">
+                                    <h5 style="margin: 0; padding: 0; font-size: 18px; color: #0068b3 !important; font-family: Georgia, Times New Roman, Times, serif; font-weight: normal;">
+                                                      <a href="#" style="color: #0068b3;text-decoration: none;" target="_blank">Headline</a>
+                                    </h5>
+                                  </td>
+                                  <td width="40">
+                                    &nbsp;
+                                  </td>
+                                  <td valign="top" width="240">
+                                    <h5 style="margin: 0; padding: 0; font-size: 18px; color: #0068b3 !important; font-family: Georgia, Times New Roman, Times, serif; font-weight: normal;">
+                                                      <a href="#" style="color: #0068b3;text-decoration: none;" target="_blank">Headline</a>
+                                    </h5>
+                                  </td>
+                                  <td width="20">
+                                    &nbsp;
+                                  </td>
+                                </tr>
+
+                                <tr>
+                                  <td height="10" width="20">
+                                  </td>
+                                  <td height="10" width="240">
+                                  </td>
+                                  <td height="10" width="40">
+                                  </td>
+                                  <td height="10" width="240">
+                                  </td>
+                                  <td height="10" width="20">
+                                  </td>
+                                </tr>
+
+                                <tr>
+                                  <td width="20">
+                                    &nbsp;
+                                  </td>
+                                  <td valign="top" width="240">
+                                    <p style="margin: 0; padding: 0; font-size: 14px; color: #555555; font-family: Georgia, Times New Roman, Times, serif; line-height: 1.25;">
+                                                      Text here.&nbsp;<a href="#" style="color: #0068b3;line-height: 1.25;" target="_blank">Read more &gt;&gt;</a>
+                                    </p>
+                                  </td>
+                                  <td width="40">
+                                    &nbsp;
+                                  </td>
+                                  <td valign="top" width="240">
+                                    <p style="margin: 0; padding: 0; font-size: 14px; color: #555555; font-family: Georgia, Times New Roman, Times, serif; line-height: 1.25;">
+                                                      Text here.&nbsp;<a href="#" style="color: #0068b3;line-height: 1.25;" target="_blank">Read more &gt;&gt;</a>
+                                    </p>
+                                  </td>
+                                  <td width="20">
+                                    &nbsp;
+                                  </td>
+                                </tr>
+
+                                <tr>
+                                  <td height="19" width="20">
+                                    &nbsp;
+                                  </td>
+                                  <td height="19" width="240">
+                                    &nbsp;
+                                  </td>
+                                  <td height="19" width="40">
+                                    &nbsp;
+                                  </td>
+                                  <td height="19" width="240">
+                                    &nbsp;
+                                  </td>
+                                  <td height="19" width="20">
+                                    &nbsp;
+                                  </td>
+                                </tr>
+
+                                <tr>
+                                  <td height="1" style="background-color: #FFFFFF" width="20">
+                                  </td>
+                                  <td height="1" style="background-color: #FFFFFF" width="240">
+                                  </td>
+                                  <td height="1" style="background-color: #FFFFFF" width="40">
+                                  </td>
+                                  <td height="1" style="background-color: #FFFFFF" width="240">
+                                  </td>
+                                  <td height="1" style="background-color: #FFFFFF" width="20">
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                            <!--/articles stories set 1-->
+
+                            <table border="0" cellpadding="0" cellspacing="0" style="background-color: #F2F2F2">
+                              <!--articles stories set 2-->
+
+                              <tbody>
+                                <tr>
+                                  <td height="20" width="20">
+                                    &nbsp;
+                                  </td>
+                                  <td height="20" width="240">
+                                    &nbsp;
+                                  </td>
+                                  <td height="20" valign="top" width="40">
+                                    <img alt="" height="1" src="http://www.yandellmedia.com/images/spacer.gif" style="outline: none; text-decoration: none; display: block;" width="40">
+                                  </td>
+                                  <td height="20" width="240">
+                                    &nbsp;
+                                  </td>
+                                  <td height="20" width="20">
+                                    &nbsp;
+                                  </td>
+                                </tr>
+
+                                <tr>
+                                  <td height="180" width="20">
+                                    &nbsp;
+                                  </td>
+                                  <td height="180" style="background-color: #f2f2f2" valign="top" width="240">
+                                    <a href="#" target="_blank"><img align="top" alt="Click here to read more..." border="0" src="http://placehold.it/240x180"></a>
+                                  </td>
+                                  <td height="180" width="40">
+                                    &nbsp;
+                                  </td>
+                                  <td height="180" style="background-color: #f2f2f2" valign="top" width="240">
+                                    <a href="#" target="_blank"><img align="top" alt="Click here to read more..." border="0" src="http://placehold.it/240x180"></a>
+                                  </td>
+                                  <td height="180" width="20">
+                                    &nbsp;
+                                  </td>
+                                </tr>
+
+                                <tr>
+                                  <td height="10" width="20">
+                                  </td>
+                                  <td height="10" width="240">
+                                  </td>
+                                  <td height="10" width="40">
+                                  </td>
+                                  <td height="10" width="240">
+                                  </td>
+                                  <td height="10" width="20">
+                                  </td>
+                                </tr>
+
+                                <tr>
+                                  <td width="20">
+                                    &nbsp;
+                                  </td>
+                                  <td valign="top" width="240">
+                                    <h5 style="margin: 0; padding: 0; font-size: 18px; color: #0068b3 !important; font-family: Georgia, Times New Roman, Times, serif; font-weight: normal;">
+                                                      <a href="#" style="color: #0068b3;text-decoration: none;" target="_blank">Headline</a>
+                                    </h5>
+                                  </td>
+                                  <td width="40">
+                                    &nbsp;
+                                  </td>
+                                  <td valign="top" width="240">
+                                    <h5 style="margin: 0; padding: 0; font-size: 18px; color: #0068b3 !important; font-family: Georgia, Times New Roman, Times, serif; font-weight: normal;">
+                                                      <a href="#" style="color: #0068b3;text-decoration: none;" target="_blank">Headline</a>
+                                    </h5>
+                                  </td>
+                                  <td width="20">
+                                    &nbsp;
+                                  </td>
+                                </tr>
+
+                                <tr>
+                                  <td height="10" width="20">
+                                  </td>
+                                  <td height="10" width="240">
+                                  </td>
+                                  <td height="10" width="40">
+                                  </td>
+                                  <td height="10" width="240">
+                                  </td>
+                                  <td height="10" width="20">
+                                  </td>
+                                </tr>
+
+                                <tr>
+                                  <td width="20">
+                                    &nbsp;
+                                  </td>
+                                  <td valign="top" width="240">
+                                    <p style="margin: 0; padding: 0; font-size: 14px; color: #555555; font-family: Georgia, Times New Roman, Times, serif; line-height: 1.25;">
+                                                      Text here.&nbsp;<a href="#" style="color: #0068b3;line-height: 1.25;" target="_blank">Read more &gt;&gt;</a>
+                                    </p>
+                                  </td>
+                                  <td width="40">
+                                    &nbsp;
+                                  </td>
+                                  <td valign="top" width="240">
+                                    <p style="margin: 0; padding: 0; font-size: 14px; color: #555555; font-family: Georgia, Times New Roman, Times, serif; line-height: 1.25;">
+                                                      Text here.&nbsp;<a href="#" style="color: #0068b3;line-height: 1.25;" target="_blank">Read more &gt;&gt;</a>
+                                    </p>
+                                  </td>
+                                  <td width="20">
+                                    &nbsp;
+                                  </td>
+                                </tr>
+
+                                <tr>
+                                  <td height="19" width="20">
+                                    &nbsp;
+                                  </td>
+                                  <td height="19" width="240">
+                                    &nbsp;
+                                  </td>
+                                  <td height="19" width="40">
+                                    &nbsp;
+                                  </td>
+                                  <td height="19" width="240">
+                                    &nbsp;
+                                  </td>
+                                  <td height="19" width="20">
+                                    &nbsp;
+                                  </td>
+                                </tr>
+
+                                <tr>
+                                  <td height="1" style="background-color: #FFFFFF" width="20">
+                                  </td>
+                                  <td height="1" style="background-color: #FFFFFF" width="240">
+                                  </td>
+                                  <td height="1" style="background-color: #FFFFFF" width="40">
+                                  </td>
+                                  <td height="1" style="background-color: #FFFFFF" width="240">
+                                  </td>
+                                  <td height="1" style="background-color: #FFFFFF" width="20">
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                            <!--/articles stories set 2-->
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <!--/articles container-->
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!--/dark greay outline-->
+
+            <table align="center" border="0" cellpadding="0" cellspacing="0">
+              <!--drop shadow-->
+
+              <tbody>
+                <tr>
+                  <td height="16" width="600">
+                    <img alt="" height="16" src="http://groupleisure.msgfocus.com/files/amf_yandell_publishing/project_90/GL-e-newsletter-template/images/drop_shadow.jpg" style="outline: none; text-decoration: none; display: block;" width="600">
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!--/drop shadow-->
+
+            <table align="center" border="0" cellpadding="0" cellspacing="0">
+              <!--social links-->
+
+              <tbody>
+                <tr>
+                  <td align="right" class="subhead" height="25" style="height: 30px;" valign="top" width="100">
+                    <a href="[*link.share_url(8, 'url=$AMF_PERMALINK')*]" style="text-decoration: none; color: #0068b3;" target="_top"><img align="right" alt="Like on Facebook" border="0" height="16" src="http://hosted.adestra.com/social/smi/16/facebook.png" style="outline: none; text-decoration: none; display: block; border: none;" title="Like on Facebook" width="16"></a>&nbsp;
+                  </td>
+                  <td align="left" class="subhead" height="25" style="height: 30px;" valign="top" width="200">
+                    <a href="[*link.share_url(8, 'url=$AMF_PERMALINK')*]" style="font-family: Georgia, Times New Roman, Times, serif; text-decoration: none; color: #0068b3;" target="_top">&nbsp;&nbsp;Like on Facebook</a>
+                  </td>
+                  <td align="right" class="subhead" height="25" style="height: 30px;" valign="top" width="100">
+                    <a href="[*link.share_url(1, 'status=$AMF_SHORT_PERMALINK')*]" style="text-decoration: none; color: #0068b3;" target="_top"><img alt="Share on Twitter" border="0" height="16" src="http://hosted.adestra.com/social/smi/16/twitter.png" style="outline: none; text-decoration: none; display: block; border: none;" title="Share on Twitter" width="16"></a>
+                  </td>
+                  <td align="left" class="subhead" height="25" style="height: 30px;" valign="top" width="190">
+                    <a href="[*link.share_url(1, 'status=$AMF_SHORT_PERMALINK')*]" style="font-family: Georgia, Times New Roman, Times, serif; text-decoration: none; color: #0068b3;" target="_top">&nbsp;&nbsp;Share on Twitter</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!--/social links-->
+
+            <table align="center" border="0" cellpadding="1" cellspacing="0" style="background-color: #898989; width: 602px">
+              <!--for dark grey outline-->
+
+              <tbody>
+                <tr>
+                  <td>
+                    <table border="0" cellpadding="20" cellspacing="0" style="background-color: #FFFFFF; width: 600px">
+                      <!--containing table-->
+
+                      <tbody>
+                        <tr>
+                          <td width="560">
+                            <table border="0" cellpadding="0" cellspacing="0" style="background-color: #F2F2F2">
+                              <!--teaser box table-->
+
+                              <tbody>
+                                <tr>
+                                  <td height="300" width="280">
+                                    <a href="http://leisureshow.com/register/" target="_blank"><img align="top" alt="Click here to register free for the Group Leisure Show" border="0" height="300" src="http://msgfocus.com/files/amf_yandell_publishing/project_90/e-mag_cover_images/Bottom-section-Sept14_01.jpg" title="Click here to register today!" width="280"></a>
+                                  </td>
+                                  <td height="300">
+                                    <table border="0" cellpadding="0" cellspacing="0" width="280">
+                                      <tbody>
+                                        <tr>
+                                          <td height="237" width="280">
+                                            <a href="http://www.groupleisure.com/emag" target="_blank"><img align="top" alt="Click here to open the latest Group Leisure" border="0" height="237" src="http://msgfocus.com/files/amf_yandell_publishing/project_90/e-mag_cover_images/Bottom-section-Sept14_02.jpg" title="Click here to open the latest Group Leisure" width="280"></a>
+                                          </td>
+                                        </tr>
+
+                                        <tr>
+                                          <td height="63" width="280">
+                                            <a href="https://itunes.apple.com/gb/app/group-leisure/id838274857?mt=8" target="_blank"><img align="top" alt="Click here to open the latest Group Leisure" border="0" height="63" src="http://msgfocus.com/files/amf_yandell_publishing/project_90/e-mag_cover_images/app.jpg" title="Download on the App Store" width="280"></a>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                            <!--/teaser box table-->
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <!--/containing table-->
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!--/end dark grey outline-->
+
+            <table align="center" border="0" cellpadding="0" cellspacing="0">
+              <!--drop shadow-->
+
+              <tbody>
+                <tr>
+                  <td height="16" width="600">
+                    <img alt="" height="16" src="http://groupleisure.msgfocus.com/files/amf_yandell_publishing/project_90/GL-e-newsletter-template/images/drop_shadow.jpg" style="outline: none; text-decoration: none; display: block;" width="600">
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!--/drop shadow-->
+
+            <table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 602px;">
+              <tbody>
+                <tr>
+                  <td align="center" height="60" style="font-family: Arial, Helvetica, sans-serif; font-size: 10px; line-height: 12px; padding-left: 10px; padding-right: 10px; color: #333;" valign="middle">
+                    This e-mail is from Yandell Media Group. Please do not reply to this message as it is an automated e-mail.<br>
+                    If you do not want to receive future e-news mailings and other messages about Group Leisure we feel will be of interest, you can unsubscribe by <a href="[*link.unsub_url*]" style="color: #0067b1;">clicking here</a>
+                  </td>
+                </tr>
+
+                <tr>
+                  <td align="center" height="40" style="font-family: Arial, Helvetica, sans-serif; font-size: 9px; line-height: 12px; padding-left: 10px; padding-right: 10px; color: #333;" valign="middle">
+                    Yandell Publishing Ltd, PO Box 5122, Milton Keynes MK15 8ZP. Registered No. 1975794.
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <!--/background-table-->
+
+    <p>
+      &nbsp;
+    </p>
+  </body>
+</html>
